@@ -5,6 +5,7 @@ Walmart Sparkathon 2025 Submission
 📺 Project Demo
 
 ▶️ Watch the full walkthrough on YouTube:
+https://youtu.be/Fd24d0InHP8?si=q71ylUkppw7xnn5-
 ShopSense – AI-Powered E-Commerce Platform (Walmart Sparkathon 2025)
 
 🚀 Overview
